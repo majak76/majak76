@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->](url)
+cheorodio cheorodio cheorodio
+
+💻 Technologies
+html logo css logo javascript logo typescript logo react logo node.js logo next.js logo npm logo sass logo sass logo jest logo Playwright logo figma logo
